@@ -49,6 +49,6 @@ Result
 https://user-images.githubusercontent.com/55078043/153204254-cd5776c3-54c3-47a5-9285-98229b0376b1.mp4
 
 ## See Also
-* <a href="https://github.com/yjg30737/pyqt-styled-graphics-text-item-example.git">pyqt-styled-graphics-text-item-example</a> - This is based on ```QGraphicsTextItem```.
+* <a href="https://github.com/yjg30737/pyqt-styled-graphics-text-item-example.git">pyqt-styled-graphics-text-item-example</a> - This is based on ```QGraphicsTextItem```. In terms of usefulness, ```pyqt-styled-graphics-text-item-example``` is more inferior than this one.  
 
 
