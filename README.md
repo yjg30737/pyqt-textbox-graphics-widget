@@ -5,7 +5,7 @@ PyQt text box which is movable, auto-resizable by text size. Parent class is QGr
 * PyQt5 >= 5.8
 
 ## Setup
-```pip3 install git+https://github.com/yjg30737/pyqt-textbox-graphics-widget.git --upgrade```
+`python -m pip install pyqt-textbox-graphics-widget`
 
 ## Usage
 You can move the box if you drag any areas near the border. If you click any areas near the middle of the box, cursor will be shown to let you write something down. Box will be auto-resized by text size. (See the result below)
